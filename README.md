@@ -10,7 +10,7 @@
     </header>
     <section>
         <h2>Sobre mí</h2>
-        <p>¡Hola! Soy [tu nombre]. Me apasiona la ciencia de datos y actualmente estoy inmerso/a en un emocionante proceso de aprendizaje en este campo fascinante. Además, estoy cursando un máster en Inteligencia Artificial, donde profundizo mis conocimientos y habilidades en este ámbito en constante evolución.</p>
+        <p>¡Hola! Soy José Manuel Martínez. Me apasiona la ciencia de datos y actualmente estoy inmerso/a en un emocionante proceso de aprendizaje en este campo fascinante. Además, estoy cursando un máster en Inteligencia Artificial, donde profundizo mis conocimientos y habilidades en este ámbito en constante evolución.</p>
     </section>
     <section>
         <h2>Habilidades</h2>
