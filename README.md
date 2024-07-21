@@ -49,13 +49,13 @@ Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a ke
   <tr>
     <td>
       <a href="https://github.com/joselitom17/My_First_EDA_Titanic">
-        <img src="https://images.hdqwalls.com/download/titanic-in-digital-art-lb-1280x720.jpg" alt="Exploratory Data Analysis about Titanic Accident">
+        <img src="https://images.hdqwalls.com/download/titanic-in-digital-art-lb-1280x720.jpg" alt="Titanic Exploratory Data Analysis">
       </a>
-      <p>Exploratory Data Analysis about Titanic Accident</p>
+      <p>Titanic Exploratory Data Analysis</p>
     </td>
     <td>
-      <a href="">
-        <img src="" alt="Tarea Classification Predictor">
+      <a href="https://github.com/joselitom17/HIDRAL_Project">
+        <img src="images/Tarea_Classification_Prediction.png" alt="Tarea Classification Predictor">
       </a>
       <p>Tarea Classification Predictor</p>
     </td>
