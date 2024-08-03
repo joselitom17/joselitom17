@@ -61,9 +61,9 @@ Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a ke
     </td>
     <td>
       <a href="https://github.com/joselitom17/Lineal_Regression_Project">
-        <img src="images/USA_Houses_California_Night_San_Diego_590554_1280x720.jpg" alt="Linear Regression Project">
+        <img src="images/USA_Houses_California_Night_San_Diego_590554_1280x720.jpg" alt="California Housing Predictor">
       </a>
-      <p>Linear Regression Project</p>
+      <p>California Housing Predictor</p>
     </td>
   </tr>
   <tr>
